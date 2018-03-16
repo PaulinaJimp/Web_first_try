@@ -1,0 +1,17 @@
+
+do pokoju na piêtrach 1-9: 
+	1xxx dla pokoi 3 osobowych,
+	2xxx dla 2 osobowych, 
+gdzie xxx to numer pokoju (np. do pokoju 911: 1911)
+
+
+do pokoju na piêtrach 10-15: 
+	3xxx dla pokoi 3 osobowych,
+	4xxx dla pokoi 2 osobowych,
+gdzie xxx to numer pokoju (np. do pokoju 1408: 3408)
+
+
+numer na portierniê: 1000
+lektorium: 2011
+sala rekreacyjna: 2003
+sala bilardowa: 2004

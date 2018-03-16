@@ -1,0 +1,11 @@
+Rozpoczynamy czat!
+JA: WITAM
+INNY: CZEŚĆ
+a: adds
+a: sfsdgh
+a: gfghhggkjhk
+ja: cześć
+inny: witam
+inny: i
+ja: widomośc
+inny: inny
